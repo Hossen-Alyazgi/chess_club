@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="challenge_Title">Challenge</string>
+    <string name="challenge_text">Do you wanna challenge this yute to a chess match?</string>
+    <string name="confirm">Yes</string>
+    <string name="deny">No</string>
+    <string name="finish">Finish</string>
+    <string name="username">username</string>
+    <string name="elo_number">elo number</string>
+    <string name="name_title">Input your name below</string>
+    <string name="your_name">your name here</string>
+    <string name="doneText">done</string>
+    <string name="result_title">Result</string>
+    <string name="result_text">so which one of you wastemans got gurksed?</string>
+    <string name="opponent">opponent</string>
+    <string name="me">me</string>
+
+</resources>
